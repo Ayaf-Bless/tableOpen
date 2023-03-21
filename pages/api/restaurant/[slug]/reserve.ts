@@ -147,4 +147,4 @@ export default async function handler(
   }
 }
 
-// http://localhost:3000/api/restaurant/vivaan-fine-indian-cuisine-ottawa/reserve?day=2023-02-03&time=15:00:00.000Z&partySize=8
+// http://localhost:3000/api/restaurant/vivaan-fine-indian-cuisine-kinshasa/reserve?day=2023-02-03&time=15:00:00.000Z&partySize=8
